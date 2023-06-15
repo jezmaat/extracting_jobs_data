@@ -1,0 +1,399 @@
+"id","description"
+59128,Agile
+59129,Agile Methodologies
+59130,AirFlow
+59131,Alemão
+59132,Algoritmos Genéticos
+59133,Algoritmos Não Supervisionados
+59134,Algoritmos Supervisionados
+59135,Alteryx
+59136,Altium PCB Designer
+59138,Amazon Web Services
+59139,Ammy Admin
+59140,Anaconda
+59141,Análise de Componentes Principais
+59142,Análise de Séries Temporais
+59143,Análise Discriminante Linear
+59144,Anarede
+59145,Android Studio
+59146,ANN
+59147,Anomaly Detection
+59148,Any Desk
+59150,Aprendizado de Máquina
+59151,Aprendizado Não Supervisionado
+59152,Aprendizado por Reforço
+59153,Aprendizado Profundo
+59154,Aprendizado Supervisionado
+59155,Arduíno IDE
+59156,Armazenamento de Dados
+59157,Artificial Neural Networks
+59158,Árvores de Decisão
+59159,Athena
+59160,Atom
+59161,Autoencoders
+59162,Automation Anywhere
+59163,AWS
+59164,AWS Glue
+59165,Azure
+59166,Balanceamento de Dados
+59167,Banco de dados
+59168,Bash (GNU Shell)
+59169,Bayesian Networks
+59170,BBox-Label-Tool
+59171,Big Data
+59172,BigQuery
+59173,BitBucket
+59174,Blender
+59175,brModelo
+59176,Business Acumen
+59177,Business Intelligence
+59178,C#
+59179,C++
+59180,Caffe
+59181,Canva
+59182,Caret
+59183,Cassandra
+59184,CatBoost
+59185,Cent OS
+59186,Classificação
+59187,Clusterização
+59188,CNN
+59189,CNTK
+59190,COLAB
+59191,Collaboration
+59192,Communication Skills
+59193,Computer Vision
+59194,Computer Vision Annotation Tool - CVAT
+59195,Conda
+59196,Confluence
+59197,Convolutional Neural Networks
+59198,CorelDRAW
+59199,Couchbase
+59200,Criação de DW (Modelagem de Dados)
+59201,Criação de Plugins QGIS
+59202,Criatividade
+59203,Cuda
+59204,CUDA
+59205,Customer Analytics
+59206,Darknet
+59207,Dask
+59208,Data Analysis
+59209,Data Analysis Techniques
+59210,Data Architecture
+59211,Data Cleaning
+59212,Data Ethics
+59213,Data Federation
+59214,Data Governance
+59215,Data Integration
+59216,Data Lake
+59217,Data Lakes
+59218,Data Mart
+59219,Data Marts
+59220,Data Migration
+59221,Data Mining
+59222,Data Modeling
+59223,Data Pipelines
+59224,Data Protection
+59225,Data Quality
+59226,Data Science
+59227,Data Studio
+59228,Data Transformation
+59229,Data Visualization
+59230,Data Warehouse
+59231,Data Warehouses
+59232,Data Warehousing
+59233,Database Management
+59234,Databricks
+59235,Data-driven Decision Making
+59236,DataGrip
+59237,DaVinci Resolve
+59238,DAX
+59239,DBeaver
+59240,Decision Tree
+59241,Decision Trees
+59242,Deep Learning
+59243,Detecção de Anomalias
+59244,Detecção e Classificação de Objetos em Imagens
+59245,Dimensional Modeling
+59246,Django
+59247,Docker
+59248,Docker Compose
+59249,Domo
+59250,Dplyr
+59251,Eagle Designer
+59252,EasyEDA
+59253,EC2
+59254,Eclipse
+59255,ECS
+59256,Elaboração de Dashboards via Excel
+59257,ElasticSearch
+59258,ELM
+59259,ELT
+59260,EMR
+59261,Engenharia de Recursos
+59262,English
+59263,Espanhol
+59264,Estatística
+59265,ETL
+59266,Excel
+59267,Extração de Dados
+59268,Extreme Learning Machines
+59269,Feature Engineering
+59270,Figma
+59271,Financial Analysis
+59272,Firebase
+59273,Fireworks
+59274,Flink
+59275,Florestas Aleatórias
+59276,Flume
+59277,Frances
+59278,Francês
+59279,GCP
+59280,Genetic Algorithms
+59281,Gensim
+59282,GeoJson
+59283,GeoServer
+59284,Ggplot2
+59285,Git
+59286,GitHub
+59287,Gitlab
+59288,GlassFish
+59289,Google Analytics
+59290,Google BigQuery
+59291,Google Cloud
+59149,Spark
+59292,Google Cloud Platform
+59293,Google Clound Dataflow
+59294,Google Drive
+59295,Google Sheets
+59296,GoogleAPI
+59297,Gradient Boosting
+59298,Grafana
+59299,Hadoop
+59300,Harbor
+59301,Healthcare Analytics
+59302,HeidiSQL
+59303,Heroku
+59304,Hive
+59305,HR Analytics
+59306,IBM Cognos
+59307,IBM InfoSphere DataStage
+59308,IBM WATSON
+59309,Illustrator
+59310,ImgLabel
+59311,Imutils
+59312,Indesign
+59313,InfluxDB
+59314,Informatica PowerCenter
+59315,Inglês
+59316,InkScape
+59317,Insomnia
+59318,Integração de Dados
+59319,IntelliJ
+59320,Java
+59321,JavaScript
+59322,Jenkins
+59323,Jira
+59324,Json
+59325,Julia
+59326,Jupyter Notebook
+59327,Kafka
+59328,Kali
+59329,Kanban
+59330,Keras
+59331,Kibana
+59332,K-Means
+59333,K-Means Clustering
+59334,K-Nearest Neighbors
+59335,KNN
+59336,Kotlin
+59337,Kubeflow
+59338,Kubernetes
+59339,K-Vizinhos Mais Próximos
+59340,Labelme
+59341,LabView
+59342,LGPD
+59343,LightGBM
+59344,Limpeza de Dados
+59345,Linear Discriminant Analysis
+59346,Linear Regression
+59347,Logistic Regression
+59348,Logistics Analytics
+59349,Logstash
+59350,Looker
+59351,Lucidchart
+59352,Luigi
+59353,Machine Learning
+59354,Manipulação de Dados
+59355,Máquinas de Aprendizado Extremo
+59356,Máquinas de Vetores de Suporte
+59357,MariaDB
+59358,Marketing Analytics
+59359,Matillion
+59360,Matlab
+59361,Matplotlib
+59362,Metabase
+59363,Metodologia Ágil
+59364,Metodologias Ágeis
+59365,Microsoft Access
+59366,Microsoft Azure
+59367,Microsoft Excel
+59368,Microsoft Planner
+59370,Microsserviços
+59371,MicroStrategy
+59372,Mineração de Dados
+59373,MiniTAB
+59374,MLlib
+59375,Mobirise
+59376,Mode Analytics
+59377,Modelagem de Dados
+59378,Mongodb
+59379,Mssql 2017 R2
+59380,MXNet
+59381,MySQL
+59382,Naive Bayes
+59383,Naive-Bayes
+59384,Natural Language Processing
+59385,Neo4j
+59386,NetBeans
+59387,Neural Networks
+59388,Nginx
+59389,NLTK
+59390,Nmap
+59391,Normalização de Dados
+59392,NoSQL
+59393,NPM
+59394,Numpy
+59395,ODI
+59396,OLAP
+59397,Online Analytical Processing
+59398,Oozie
+59399,OpenCL
+59400,OpenCV
+59401,OpenDrone Maps
+59402,Operations Analytics
+59403,Oracle
+59404,Oracle Data Integrator
+59405,Otimização Combinatória
+59406,Overfitting
+59407,Pandas
+59408,Pensamento crítico
+59409,Pentaho
+59410,Pentaho Data Integration
+59411,phpStorm
+59412,Pig
+59413,PIP
+59414,Pipeline
+59415,Pipelines
+59416,PixLR Editor
+59417,PL/SQL
+59418,Plotly
+59419,Port Scan
+59420,PostGIS
+59421,PostgreSQL
+59422,Postman
+59423,Power Automate
+59424,Power BI
+59425,PowerBI
+59426,Predictive Analytics
+59427,Premier
+59428,Principal Component Analysis
+59429,Problem-Solving
+59430,Processamento de Linguagem Natural
+59431,Project Management
+59432,Proteus Design Suite
+59433,PROTHEUS
+59434,Proxmox Virtual Environment
+59435,PyAutoGui
+59436,PyCharm
+59437,PySpark
+59438,Python
+59439,PyTorch
+59440,Qlab
+59441,Qlik
+59442,Qlik Sense
+59443,QlikView
+59444,QtCreator
+59445,Quality Control
+59446,R
+59447,Raciocínio Lógico
+59448,Random Forests
+59449,Recurrent Neural Networks
+59450,Redes Bayesianas
+59451,Redes Convolucionais
+59452,Redes Neurais
+59453,Redes Neurais Artificiais
+59454,Redes Neurais Recorrentes
+59455,Redes Neurais Recorrentes Bidirecionais
+59456,Redes Neurais Residuais
+59457,Redis
+59458,Regressão Linear
+59459,Regressão Logística
+59460,Reinforcement Learning
+59461,Resolume Arena
+59462,REST
+59463,RNA MaskR-CNN
+59464,RNA YOLO
+59465,RNN
+59466,RoboFlow
+59467,RPA
+59468,S3
+59469,Sales Analytics
+59470,SAP
+59471,SAP BusinessObjects
+59472,SAP Data Services
+59473,SAS
+59474,Scala
+59475,Scikit-Learn
+59476,Scipy
+59477,Scrum
+59478,Selenium
+59479,Sentiment Analysis
+59480,Sentinel (Imagens de Satélite)
+59481,Simulink
+59482,Sisense
+59483,Snowflake
+59484,Solidworks
+59485,SpaCy
+59486,Spanish
+59487,Sprint Tools Studio
+59488,Spyder
+59489,SQL
+59490,SQL Server Integration Services
+59491,SQLite
+59492,Sqoop
+59493,SSIS
+59494,Star Schema
+59495,Stata
+59496,STATA
+59497,Statistical Analysis
+59498,Statistics
+59499,Storytelling
+59500,Sublime
+59501,Supply Chain Analytics
+59502,Support Vector Machine
+59503,Support Vector Machines
+59504,SVM
+59505,Tableau
+59506,Talend
+59507,Team Viewer
+59508,Tensor Flow
+59509,TensorFlow
+59510,Text Mining
+59511,Theano
+59512,Time Management
+59513,Time Series Analysis
+59514,TinyDB
+59515,TKinter
+59516,Torch
+59517,Tratamento de Dados
+59518,Tratamento de Imagens
+59519,Trello
+59520,Ubuntu
+59521,Ui.Path
+59522,UiPath
+59523,Underfitting
+59524,Unity 3D
+59525,Visualização de dados
+59369,SQL Server
+59137,RedShift
